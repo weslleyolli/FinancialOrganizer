@@ -31,3 +31,14 @@ export const NewTransactionButton = styled.button`
         transition: background-color 0.5s;
     } 
 `
+
+export const LogoContainer = styled.div`
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+
+    span {
+        font-weight: bold;
+        font-size: 20px;
+    }
+`   
