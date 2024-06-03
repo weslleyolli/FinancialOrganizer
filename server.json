@@ -2,7 +2,7 @@
     "transactions": [
         {
             "id": 1, 
-            "description": "development of site ",
+            "description": "Development of site ",
             "type": "income",
             "category": "Sales", 
             "price": 14000,
