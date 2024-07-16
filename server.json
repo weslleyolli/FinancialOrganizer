@@ -1,20 +1,44 @@
 {
-    "transactions": [
-        {
-            "id": 1, 
-            "description": "Development of site ",
-            "type": "income",
-            "category": "Sales", 
-            "price": 14000,
-            "created_at": "2024-05-30T18:50:19.350Z"
-        },
-        {
-            "id": 2, 
-            "description": "Hamburger ",
-            "type": "outcome",
-            "category": "Food", 
-            "price": 50,
-            "created_at": "2024-05-30T18:40:19.350Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Development of site ",
+      "type": "income",
+      "category": "Sales",
+      "price": 14000,
+      "created_at": "2024-05-30T18:50:19.350Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger ",
+      "type": "outcome",
+      "category": "Food",
+      "price": 50,
+      "created_at": "2024-05-30T18:40:19.350Z"
+    },
+    {
+      "description": "Trip to london",
+      "price": 20000,
+      "category": "Trip",
+      "type": "outcome",
+      "createdAt": "2024-07-16T13:19:03.799Z",
+      "id": 3
+    },
+    {
+      "description": "Plataform",
+      "price": 100000,
+      "category": "salary",
+      "type": "income",
+      "createdAt": "2024-07-16T13:27:15.059Z",
+      "id": 4
+    },
+    {
+      "description": "clothes for trip",
+      "price": 1200,
+      "category": "Trip",
+      "type": "outcome",
+      "createdAt": "2024-07-16T13:48:17.338Z",
+      "id": 5
+    }
+  ]
 }
